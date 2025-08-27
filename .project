@@ -3,7 +3,7 @@
 	<name>SpringBootProject7Jdbc</name>
 	<comment></comment>
 	<projects>
-	</projects>
+	</projects>  
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
@@ -26,3 +26,4 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 </projectDescription>
+
