@@ -9,7 +9,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-import in.sp.main.entity.User;
+import in.sp.main.entity.User; 
 
 @Repository
 public class UserDao {
@@ -134,3 +134,4 @@ public class UserDao {
 
 	}
 }
+
